@@ -11,5 +11,5 @@ CardStackAnimationView
 
 
 
-![github](https://github.com/snowDreams/StackCardViewRecycleLayout/raw/master/动画效果2.gif)
+![github](https://github.com/yangyanxinyyx/StackCardView/blob/main/gifmk1111111.gif)
 
